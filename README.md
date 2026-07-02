@@ -17,7 +17,7 @@ Passionate about building scalable web applications and solving real-world probl
 - 🌱 Currently improving my skills in Spring Boot, React, and Machine Learning
 - 🤖 Interested in AI-powered software solutions
 - 📫 Email: **mhasanmoha22@gmail.com**
-- 🌐 Portfolio: **https://hasanportfolio.vercel.app**
+- 🌐 Portfolio: **https://portfolio-ten-taupe-08koz2caoz.vercel.app/**
 - 💼 LinkedIn: **https://linkedin.com/in/hasanmohamed22**
 
 ---
@@ -86,7 +86,7 @@ An AI + IoT project focused on identifying food waste and supporting efficient r
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://hasanportfolio.vercel.app">
+<a href="https://portfolio-ten-taupe-08koz2caoz.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
